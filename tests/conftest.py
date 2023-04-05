@@ -17,7 +17,6 @@ from jdrones.envs import NonlinearDynamicModelDroneEnv
 from jdrones.envs import PyBulletDroneEnv
 from jdrones.envs.dronemodels import droneplus_mixing_matrix
 from jdrones.envs.position import BasePositionDroneEnv
-from jdrones.envs.position import FifthOrderPolyPositionWithLookAheadDroneEnv
 from jdrones.transforms import euler_to_quat
 
 
